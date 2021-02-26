@@ -1,1 +1,2 @@
-# Landslides_TUBerlin
+# Landslides (M.Sc. & Publication)
+
